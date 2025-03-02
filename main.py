@@ -11,7 +11,7 @@ import pandas as pd
 # -----------------------
 # Data and Parameters
 # -----------------------
-num_nurses = 100
+num_nurses = 65
 nurses = range(num_nurses)
 
 # Skills: assume four skills: A, B, C, D
