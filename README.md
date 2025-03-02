@@ -2,10 +2,13 @@
 
 ## Outputs
 
-<img width="1091" alt="image" src="./main_assignment.png" />
+![image info](./main_assignment.png)
 
-<img width="1091" alt="image" src="./consecutive_days_constraint_slack.png" />
 
-<img width="1091" alt="image" src="./converage_costraint_slack.png" />
+![image info](./consecutive_days_constraint_slack.png)
 
-<img width="1091" alt="image" src="./working_hours_slack.png" />
+
+![image info](./converage_costraint_slack.png)
+
+
+![image info](./working_hours_slack.png)
